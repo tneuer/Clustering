@@ -2,7 +2,7 @@
 """
 Created on Sat May 27 21:34:38 2017
 
-@author: thomas
+@author: thomas neuer
 """
 
 import random as rd
