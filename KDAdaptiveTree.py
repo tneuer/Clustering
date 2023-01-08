@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import time
 import csv
 
+# Second change
+
 start = time.clock()
 with open("/home/thomas/Uni/3.Jahr/FS17/DataScience/Data/cdm2.00100.578872.halo.ascii", "r") as f:
     #maximum = 2780000
