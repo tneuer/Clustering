@@ -5,6 +5,8 @@ Created on Sat May 27 21:34:38 2017
 @author: thomas neuer
 """
 
+# Added a comment
+
 import random as rd
 import numpy as np
 import matplotlib.pyplot as plt
